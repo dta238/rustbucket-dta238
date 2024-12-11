@@ -7,7 +7,7 @@ function submit() {
     var urls = [];
 
     if (rwd.checked) {
-        urls.push("https://onlinesequencer.net/members/25482");
+        urls.push("https://onlinesequencer.net/members/25482"); //testlink
     }
     if (fwd.checked) {
         urls.push(fwd.value);
